@@ -1,0 +1,19 @@
+{
+  "htmlFiles": [
+    {
+      "fileId": "0B-SZEiT_s4MAUWRicUhYQVFJTUE",
+      "contentType": "text/html",
+      "name": "Venture.html",
+      "path": "0B-SZEiT_s4MAVkFEc1EtaGJySnM/"
+    }
+  ],
+  "cssFiles": [],
+  "javascriptFiles": [
+    {
+      "fileId": "0B-SZEiT_s4MAVkNuN25NX2JIdnc",
+      "contentType": "text/javascript",
+      "name": "adventure.js",
+      "path": "0B-SZEiT_s4MAVkFEc1EtaGJySnM/"
+    }
+  ]
+}
